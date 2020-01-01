@@ -1,2 +1,2 @@
 # Blockchain
- Learning basics of blockchain and cryptocurrency by creating them
+ Learning blockchain and cryptocurrency by creating them
